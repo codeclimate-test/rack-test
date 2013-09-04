@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/codeclimate/ruby-test-reporter.git
-  revision: e73f9cba0c0c6a20f5c69808e4854282cc4c625a
+  revision: 226bc6a96c796a7df9e294277f858a008a521354
   branch: tddium
   specs:
     codeclimate-test-reporter (0.0.5)
