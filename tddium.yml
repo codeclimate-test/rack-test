@@ -1,0 +1,3 @@
+:tddium:
+  :hooks:
+    :post_worker: bundle exec test-reporter-batch.rb
