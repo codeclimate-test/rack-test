@@ -1,14 +1,8 @@
-GIT
-  remote: git://github.com/codeclimate/ruby-test-reporter.git
-  revision: 6d14ed9104ed65c4abd48955ee5ffe8cf77a5212
-  branch: tddium
-  specs:
-    codeclimate-test-reporter (0.0.5)
-      simplecov (>= 0.7.1, < 1.0.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
+    codeclimate-test-reporter (0.0.6)
+      simplecov (>= 0.7.1, < 1.0.0)
     diff-lcs (1.2.3)
     multi_json (1.8.0)
     rack (1.5.2)
@@ -38,7 +32,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  codeclimate-test-reporter!
+  codeclimate-test-reporter
   rack
   rake
   rspec
