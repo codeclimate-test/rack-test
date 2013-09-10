@@ -1,3 +1,0 @@
-:tddium:
-  :hooks:
-    :post_worker: bundle exec cc-tddium-post-worker
